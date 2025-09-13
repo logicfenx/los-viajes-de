@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/los-viajes-de",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a los-viajes-de",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/los-viajes-de.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.rincondelviaje.com/los-viajes-de-gulliver/"
+    },
+    "homepage": "https://www.rincondelviaje.com/los-viajes-de-gulliver/"
+}
